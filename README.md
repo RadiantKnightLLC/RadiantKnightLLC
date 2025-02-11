@@ -1,8 +1,7 @@
 - 👋 Hi, this is @RadiantKnightLLC
-- 💞️ I’m looking to collaborate ongoing projects, one-time contracts, or innovative collaborations in 🌐 software development, ☁️ cloud infrastructure, and 🤖 AI solutions
+- 💞️ I’m looking to collaborate on ongoing projects, one-time contracts, or innovative collaborations in 🌐 software development, ☁️ cloud infrastructure, and 🤖 AI solutions
 - 📫 📫 How to reach me: 🌐 Website | 🔗 LinkedIn | 📧 Email
 
-<!---
 Radiant Knight LLC is a forward-thinking technology consultancy specializing in innovative software solutions and scalable cloud infrastructures.
 With expertise in modern technologies such as TypeScript, React, Remix, Kubernetes, and Java, we design and deploy robust systems that drive efficiency and growth.
 Our AI solutions utilize advanced machine learning frameworks including Metaflow, PyTorch, and TensorFlow to provide impactful, data-driven insights. 
@@ -21,4 +20,4 @@ Our team is dedicated to delivering top-notch solutions focused on quality, perf
 🔧 DevOps | 🚀 Cloud Provisioning | 📈 Scalability  
 🔒 Security | ✨ User Experience
 
---->
+
