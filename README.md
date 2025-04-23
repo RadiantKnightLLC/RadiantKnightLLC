@@ -17,4 +17,4 @@ Our team is dedicated to delivering top-notch solutions focused on quality, perf
 🧠 Metaflow | 🔥 PyTorch | 🤖 TensorFlow  
 📱 Mobile Apps | 🌐 Web Development | ✨ User Experience 
 🔧 DevOps | 🚀 Cloud Provisioning | 📈 Scalability | 🔒 Security 
-☸️ Kubernetes | ⚙️ GitHub Actions | 🚀 ArgoCD 
+ ☸️ Kubernetes | ⚙️ GitHub Actions | 🚀 ArgoCD 
