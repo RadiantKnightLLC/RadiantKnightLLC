@@ -1,7 +1,5 @@
 # Radiant Knight LLC
 
-👋 Hi, this is **@RadiantKnightLLC**
-
 💞️ I’m looking to collaborate on ongoing projects, one-time contracts, or innovative collaborations in:
 - 🌐 Software development
 - ☁️ Cloud infrastructure
