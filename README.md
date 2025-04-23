@@ -12,12 +12,9 @@ At Radiant Knight LLC, we merge technical excellence with a commitment to innova
 Our team is dedicated to delivering top-notch solutions focused on quality, performance, security, and user experience.
 
 ### Specialty
-🐍 Python | 🟨 JavaScript | 🟦 TypeScript | ☕ Java | ⚛️ React | 🌀 Remix | 📱 React Native | ⚡ Next.js  
-☸️ Kubernetes | ⚙️ GitHub Actions | 🚀 ArgoCD  
+🐍 Python | 🟨 JavaScript | 🟦 TypeScript | ⚛️ React | 🌀 Remix | 📱 React Native | ⚡ Next.js   
 🌩️ AWS | ☁️ GCP | 🔷 Azure  
 🧠 Metaflow | 🔥 PyTorch | 🤖 TensorFlow  
-📱 Mobile Apps | 🌐 Web Development  
-🔧 DevOps | 🚀 Cloud Provisioning | 📈 Scalability  
-🔒 Security | ✨ User Experience
-
-
+📱 Mobile Apps | 🌐 Web Development | ✨ User Experience 
+🔧 DevOps | 🚀 Cloud Provisioning | 📈 Scalability | 🔒 Security 
+☸️ Kubernetes | ⚙️ GitHub Actions | 🚀 ArgoCD 
